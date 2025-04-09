@@ -1,3 +1,3 @@
 # Official Domains
 
-ccc.biz
+>ccc.biz
