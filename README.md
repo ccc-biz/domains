@@ -5,4 +5,4 @@
 # Official Premium Domains
 
 >study.club
->bu.ke
+bu.ke
